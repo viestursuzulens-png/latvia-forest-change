@@ -1,0 +1,16 @@
+# Satellite data and outputs
+data/
+*.tif
+*.tiff
+*.jp2
+*.zip
+
+# Trained model weights
+*.pth
+*.pt
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
